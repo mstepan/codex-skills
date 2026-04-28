@@ -1,0 +1,7 @@
+interface:
+  display_name: "Effective Java v1"
+  short_description: "Effective Java guidance for Java code"
+  default_prompt: "Use $effective-java-v1 to review this Java implementation against Effective Java practices."
+
+policy:
+  allow_implicit_invocation: true

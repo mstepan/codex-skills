@@ -1,0 +1,7 @@
+interface:
+  display_name: "Java Micronaut DDD"
+  short_description: "Micronaut DDD backend standards"
+  default_prompt: "Use $java-micronaut-ddd to implement this Micronaut backend change."
+
+policy:
+  allow_implicit_invocation: true

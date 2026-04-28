@@ -1,0 +1,7 @@
+interface:
+  display_name: "Java Spring DDD"
+  short_description: "Spring DDD backend standards"
+  default_prompt: "Use $java-spring-ddd to implement this Spring backend change."
+
+policy:
+  allow_implicit_invocation: true
