@@ -1,0 +1,7 @@
+interface:
+  display_name: "REST API Design"
+  short_description: "REST API design consistency guidance"
+  default_prompt: "Use $rest-api-oci to review this REST API design for consistency and production readiness."
+
+policy:
+  allow_implicit_invocation: true
