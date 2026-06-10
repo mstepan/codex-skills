@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python FastAPI DDD"
+  short_description: "FastAPI DDD and Onion Architecture"
+  default_prompt: "Use $python-fast-api-ddd to design or review a FastAPI backend with DDD and Onion Architecture."
