@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Guidelines"
+  short_description: "Pragmatic Rust rules for Codex"
+  default_prompt: "Use $rust-guidelines when working on Rust code that should follow the pragmatic Rust rulebook."
